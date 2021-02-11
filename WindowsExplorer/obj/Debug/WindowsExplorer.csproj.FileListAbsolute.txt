@@ -1,0 +1,26 @@
+C:\Users\Administrator\source\repos\WindowsExplorer\WindowsExplorer\bin\Debug\WindowsExplorer.exe.config
+C:\Users\Administrator\source\repos\WindowsExplorer\WindowsExplorer\bin\Debug\WindowsExplorer.exe
+C:\Users\Administrator\source\repos\WindowsExplorer\WindowsExplorer\bin\Debug\WindowsExplorer.pdb
+C:\Users\Administrator\source\repos\WindowsExplorer\WindowsExplorer\bin\Debug\GongShell.dll
+C:\Users\Administrator\source\repos\WindowsExplorer\WindowsExplorer\bin\Debug\GongShell.xml
+C:\Users\Administrator\source\repos\WindowsExplorer\WindowsExplorer\obj\Debug\WindowsExplorer.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\WindowsExplorer\WindowsExplorer\obj\Debug\WindowsExplorer.Form1.resources
+C:\Users\Administrator\source\repos\WindowsExplorer\WindowsExplorer\obj\Debug\WindowsExplorer.Properties.Resources.resources
+C:\Users\Administrator\source\repos\WindowsExplorer\WindowsExplorer\obj\Debug\WindowsExplorer.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\WindowsExplorer\WindowsExplorer\obj\Debug\WindowsExplorer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WindowsExplorer\WindowsExplorer\obj\Debug\WindowsExplorer.csproj.CopyComplete
+C:\Users\Administrator\source\repos\WindowsExplorer\WindowsExplorer\obj\Debug\WindowsExplorer.exe
+C:\Users\Administrator\source\repos\WindowsExplorer\WindowsExplorer\obj\Debug\WindowsExplorer.pdb
+E:\fcih\2021\Windos Forms\1- Windows Forms programming by C#\projects\WindowsExplorer\WindowsExplorer\bin\Debug\WindowsExplorer.exe.config
+E:\fcih\2021\Windos Forms\1- Windows Forms programming by C#\projects\WindowsExplorer\WindowsExplorer\bin\Debug\WindowsExplorer.exe
+E:\fcih\2021\Windos Forms\1- Windows Forms programming by C#\projects\WindowsExplorer\WindowsExplorer\bin\Debug\WindowsExplorer.pdb
+E:\fcih\2021\Windos Forms\1- Windows Forms programming by C#\projects\WindowsExplorer\WindowsExplorer\bin\Debug\GongShell.dll
+E:\fcih\2021\Windos Forms\1- Windows Forms programming by C#\projects\WindowsExplorer\WindowsExplorer\bin\Debug\GongShell.xml
+E:\fcih\2021\Windos Forms\1- Windows Forms programming by C#\projects\WindowsExplorer\WindowsExplorer\obj\Debug\WindowsExplorer.csprojAssemblyReference.cache
+E:\fcih\2021\Windos Forms\1- Windows Forms programming by C#\projects\WindowsExplorer\WindowsExplorer\obj\Debug\WindowsExplorer.Form1.resources
+E:\fcih\2021\Windos Forms\1- Windows Forms programming by C#\projects\WindowsExplorer\WindowsExplorer\obj\Debug\WindowsExplorer.Properties.Resources.resources
+E:\fcih\2021\Windos Forms\1- Windows Forms programming by C#\projects\WindowsExplorer\WindowsExplorer\obj\Debug\WindowsExplorer.csproj.GenerateResource.cache
+E:\fcih\2021\Windos Forms\1- Windows Forms programming by C#\projects\WindowsExplorer\WindowsExplorer\obj\Debug\WindowsExplorer.csproj.CoreCompileInputs.cache
+E:\fcih\2021\Windos Forms\1- Windows Forms programming by C#\projects\WindowsExplorer\WindowsExplorer\obj\Debug\WindowsExplorer.csproj.CopyComplete
+E:\fcih\2021\Windos Forms\1- Windows Forms programming by C#\projects\WindowsExplorer\WindowsExplorer\obj\Debug\WindowsExplorer.exe
+E:\fcih\2021\Windos Forms\1- Windows Forms programming by C#\projects\WindowsExplorer\WindowsExplorer\obj\Debug\WindowsExplorer.pdb
